@@ -1,6 +1,10 @@
 {
   "version": 2,
+  "name": "alchemy-dev",
   "cleanUrls": true,
+  "installCommand": "echo 'Static & Serverless ready'",
+  "buildCommand": "",
+  "outputDirectory": ".",
   "headers": [
     {
       "source": "/(.*)",
